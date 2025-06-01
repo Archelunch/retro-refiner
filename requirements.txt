@@ -1,0 +1,4 @@
+pillow==11.2.1
+gradio==5.32.0
+requests==2.32.3
+dspy==2.6.24
